@@ -3,7 +3,6 @@ generators:
 - app-exporter.yaml
 - app-operator.yaml
 - athena.yaml
-- cluster-api-cleaner-proxmox.yaml
 - cluster-api-ipam-provider-in-cluster.yaml
 - cluster-api-monitoring.yaml
 - cluster-api-provider-proxmox.yaml
