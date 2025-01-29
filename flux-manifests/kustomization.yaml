@@ -31,6 +31,7 @@ generators:
 - loki.yaml
 - mimir.yaml
 - observability-operator.yaml
+- observability-platform-api.yaml
 - organization-operator.yaml
 - prometheus-meta-operator.yaml
 - prometheus-remotewrite.yaml
