@@ -17,7 +17,6 @@ resources:
 - falco.yaml
 - fluent-logshipping-app.yaml
 - grafana.yaml
-- happa.yaml
 - ingress-nginx.yaml
 - keda.yaml
 - konfiguration.v2.yaml
