@@ -1,5 +1,4 @@
 resources:
-- athena.yaml
 - cloudnative-pg.yaml
 - cluster-api-ipam-provider-in-cluster.yaml
 - cluster-api-provider-proxmox.yaml
