@@ -10,7 +10,6 @@ resources:
 - exception-recommender.yaml
 - falco.yaml
 - fluent-logshipping-app.yaml
-- ingress-nginx.yaml
 - keda.yaml
 - konfiguration.v2.yaml
 - kyverno-policies-connectivity.yaml
