@@ -15,7 +15,6 @@ resources:
 - kyverno-policies-connectivity.yaml
 - loki.yaml
 - mimir.yaml
-- observability-platform-api.yaml
 - organization-operator.yaml
 - plugin-barman-cloud.yaml
 - prometheus-remotewrite.yaml
