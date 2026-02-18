@@ -14,7 +14,6 @@ resources:
 - loki.yaml
 - mimir.yaml
 - rbac-operator.yaml
-- silence-operator.yaml
 - starboard-exporter.yaml
 - teleport-operator.yaml
 - tempo.yaml
