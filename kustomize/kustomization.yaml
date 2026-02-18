@@ -14,7 +14,6 @@ resources:
 - konfiguration.v2.yaml
 - loki.yaml
 - mimir.yaml
-- plugin-barman-cloud.yaml
 - rbac-operator.yaml
 - silence-operator.yaml
 - starboard-exporter.yaml
