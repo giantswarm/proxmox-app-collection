@@ -12,7 +12,6 @@ resources:
 - fluent-logshipping-app.yaml
 - keda.yaml
 - konfiguration.v2.yaml
-- kyverno-policies-connectivity.yaml
 - loki.yaml
 - mimir.yaml
 - plugin-barman-cloud.yaml
