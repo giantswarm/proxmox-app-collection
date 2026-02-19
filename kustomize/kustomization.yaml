@@ -11,7 +11,6 @@ resources:
 - fluent-logshipping-app.yaml
 - keda.yaml
 - konfiguration.v2.yaml
-- mimir.yaml
 - rbac-operator.yaml
 - starboard-exporter.yaml
 - teleport-operator.yaml
