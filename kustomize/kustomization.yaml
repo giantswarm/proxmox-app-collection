@@ -12,7 +12,6 @@ resources:
 - keda.yaml
 - konfiguration.v2.yaml
 - rbac-operator.yaml
-- starboard-exporter.yaml
 - teleport-operator.yaml
 - tempo.yaml
 - trivy-operator.yaml
