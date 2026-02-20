@@ -9,7 +9,6 @@ resources:
 - exception-recommender.yaml
 - falco.yaml
 - fluent-logshipping-app.yaml
-- keda.yaml
 - konfiguration.v2.yaml
 - teleport-operator.yaml
 - tempo.yaml
