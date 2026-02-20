@@ -8,7 +8,6 @@ resources:
 - etcd-backup-operator.yaml
 - exception-recommender.yaml
 - falco.yaml
-- fluent-logshipping-app.yaml
 - konfiguration.v2.yaml
 - teleport-operator.yaml
 - tempo.yaml
