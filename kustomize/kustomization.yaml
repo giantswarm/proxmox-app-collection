@@ -6,7 +6,6 @@ resources:
 - dns-operator-route53.yaml
 - etcd-backup-operator.yaml
 - exception-recommender.yaml
-- falco.yaml
 - konfiguration.v2.yaml
 - teleport-operator.yaml
 - tempo.yaml
