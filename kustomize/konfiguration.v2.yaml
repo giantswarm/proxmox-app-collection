@@ -83,10 +83,6 @@ spec:
         variables:
           - name: app
             value: etcd-backup-operator
-      exception-recommender:
-        variables:
-          - name: app
-            value: exception-recommender
       falco:
         variables:
           - name: app
