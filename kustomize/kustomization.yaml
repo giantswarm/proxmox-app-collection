@@ -8,4 +8,3 @@ resources:
 - teleport-operator.yaml
 - tempo.yaml
 - trivy-operator.yaml
-- trivy.yaml
