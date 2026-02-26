@@ -6,4 +6,3 @@ resources:
 - dns-operator-route53.yaml
 - konfiguration.v2.yaml
 - teleport-operator.yaml
-- trivy-operator.yaml
