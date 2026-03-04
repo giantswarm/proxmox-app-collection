@@ -83,6 +83,10 @@ spec:
         variables:
           - name: app
             value: etcd-backup-operator
+      event-exporter-app:
+        variables:
+          - name: app
+            value: event-exporter-app
       falco:
         variables:
           - name: app
